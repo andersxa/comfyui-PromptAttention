@@ -20,4 +20,5 @@ You can find this node under `conditioning`
 # TODO:
 - [ ] Add examples
 
-
+# Note:
+You will need `scikit-learn` and `matplotlib` installed in your ComfyUI environment to use this extension.
